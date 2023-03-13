@@ -1,2 +1,1 @@
-# Precurso-Henry
-repositorio de prueba para el precurso de henry
+Este proyecto es una prueba de como crear un repositorio y clonarlo desde github a mi computadora
